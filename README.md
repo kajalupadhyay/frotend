@@ -1,2 +1,1 @@
-# frotend
-frotend
+This is frontend repos
